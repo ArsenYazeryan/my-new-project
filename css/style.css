@@ -14,7 +14,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 30px;
+    font-size: 32px;
     color: #681031
 }
 
@@ -27,6 +27,6 @@
 
 .just-div-background {
     max-width: 100%;
-    height: 2000px;
+    height: 2500px;
     background-color: blueviolet;
 }
